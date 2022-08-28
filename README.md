@@ -2,6 +2,8 @@
 
 Migrated Noun Pepes from ERC1155 to ERC721 
 
+To migrate, send your 1155 Noun Pepe to `nounpepes.eth`
+
 1/1s/personal faves can be indelibly put on-chain 
 
 Tokens 301 and 1 are examples on-chain! 
