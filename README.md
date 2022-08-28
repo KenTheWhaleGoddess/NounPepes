@@ -10,6 +10,7 @@ Tokens 301 and 1 are examples on-chain!
 - Noun Pepes NFT: https://etherscan.io/address/0x032af6bfa2397e384acbe0ae4724e6ecaea91113
 - Metadata: https://etherscan.io/address/0x8f410aa2a68ef6dde0ac211cd66cf5d5df26ec10
 
+OnChainArt can be seen through tokenURI function on either contract.
 
 # The graveyard 
 1155 Noun Pepes that NGMI: https://opensea.io/0x032AF6Bfa2397e384aCBe0aE4724e6ecaeA91113
