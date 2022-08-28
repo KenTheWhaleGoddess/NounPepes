@@ -15,6 +15,6 @@ Tokens 301 and 1 are examples on-chain!
 1155 Noun Pepes that NGMI: https://opensea.io/0x032AF6Bfa2397e384aCBe0aE4724e6ecaeA91113
 
 # Upgradeability
-The metadata component can be swapped out for traits/updated descriptions/names.
+The metadata component can be swapped out for improvements like: adding traits, updated descriptions/names.
 Copy the code above and make adjustments incrementally, then go to Noun Pepes NFT contract and 
 **update setMetadataContract** under write methods; https://etherscan.io/address/0x032af6bfa2397e384acbe0ae4724e6ecaea91113#writeContract
